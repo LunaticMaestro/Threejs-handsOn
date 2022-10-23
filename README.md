@@ -5,5 +5,5 @@ Thanks to [Nik Lever](https://github.com/niklever) for creating a guided course 
 
 ## Sample Preview
 
-1. Hello Three.js with `Camera`, `Scene` and `WebGLRenderer`.
+1. [Hello Three.js](./1_hello_cube) with `Camera`, `Scene` and `WebGLRenderer`.
 ![](./utils/1_hello_cube.gif)
