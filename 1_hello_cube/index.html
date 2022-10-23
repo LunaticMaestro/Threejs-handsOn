@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>
+            Learn three.js
+        </title>
+        <style>
+            body{
+                margin: 0;
+                padding: 0;
+            }
+        </style>
+    </head>
+    
+    
+    <body>
+        <script type="importmap">
+            {
+                "imports": {
+                    "three": "../libs/three140/build/three.module.js"
+                }
+            }
+
+        </script>
+        <script type="module">
+            import { App } from './app.js'
+
+            const app1 = new App();
+            app1.greet();
+        </script>
+    </body>
+</html>
